@@ -1,0 +1,2 @@
+# sbus2
+Using R7008SB, FUTABA T14SG
